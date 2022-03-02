@@ -24,3 +24,5 @@ This Repo contains scripts that perform different functions in terminal
 12-file_type contains the command to display what type a directory is
 
 13-symbolic_link contains command that creates a symbolic link
+
+14-copy_html contains command that copies all html file from one folder to it parent folder
