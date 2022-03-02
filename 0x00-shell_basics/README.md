@@ -22,3 +22,5 @@ This Repo contains scripts that perform different functions in terminal
 10-back contains command to return to a previos directory
 
 12-file_type contains the command to display what type a directory is
+
+13-symbolic_link contains command that creates a symbolic link
