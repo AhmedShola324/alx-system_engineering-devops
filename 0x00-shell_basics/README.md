@@ -20,3 +20,5 @@ This Repo contains scripts that perform different functions in terminal
 9-firstdirdeletion contains command to delete a directory
 
 10-back contains command to return to a previos directory
+
+12-file_type contains the command to display what type a directory is
