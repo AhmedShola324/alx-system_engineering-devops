@@ -28,3 +28,9 @@ This Repo contains scripts that perform different functions in terminal
 13-symbolic_link contains command that creates a symbolic link
 
 14-copy_html contains command that copies all html file from one folder to it parent folder
+
+100-lets_move contains command to move files beginning with uppercase
+101-clean_emacs contains command to reove files that end with ~
+102-tree contains command to crates three directories that are nested
+103-commas contains command to list files and directories separated by commas
+school.mgc contains commands ro create a magic file that can be used t detect School
