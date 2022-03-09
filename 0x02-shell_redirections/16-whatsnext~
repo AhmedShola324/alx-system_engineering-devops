@@ -1,2 +1,0 @@
-#!/bin/bash
-grep -i --context=3 "bin" /etc/passwd
